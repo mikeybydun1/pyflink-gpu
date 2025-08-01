@@ -1,0 +1,5 @@
+torch==2.7.1+cu118
+pyflink==1.0
+flink==1.0
+apache-flink==2.0.0
+apache-flink-libraries==2.0.0
